@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">responsebundle2</string>
+    <string name="textViewFirst">First Activity</string>
+    <string name="editTextFirst">save Value</string>
+    <string name="buttonFirst">First Button</string>
+    <string name="textViewResult">Return Values</string>
+    <string name="textViewSecond">Second Activity</string>
+    <string name="editTextSecond">save Value</string>
+    <string name="buttonSecond">Second Button</string>
+    <string name="textViewResult1">Reyurn Values</string>
+    <string name="textViewThird">Third Activity</string>
+    <string name="textViewResult3">save Value</string>
+    <string name="editTextThird">Return Values</string>
+</resources>
